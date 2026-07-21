@@ -1,0 +1,37 @@
+# Kshitiz Raj
+
+> Software engineer at Barclays (Pune, India) building full-stack platforms and event-driven backends, alongside agentic AI systems — multi-agent orchestration, RAG pipelines, and reasoning-first architectures.
+
+Kshitiz Raj is a Software Engineer (BA4) at Barclays Bank PLC, previously a Technical Graduate Developer (BA3) at Barclays. He works across backend engineering, cloud infrastructure, and applied machine learning, and builds agentic AI systems as personal projects.
+
+## Experience
+
+- Software Engineer, BA4 — Barclays Bank PLC, Pune (Mar 2025–Current): migrated CI/CD pipelines for ~10 repositories to AWS (CloudFormation, Service Catalog); built Node.js GraphQL APIs; implemented JWT-based auth; optimized SQL Server queries and stored procedures for high-volume reporting; deployed services on Red Hat OpenShift across multiple clusters.
+- Technical Graduate Developer, BA3 — Barclays Bank PLC, Pune (Jul 2024–Feb 2025): built XGBoost/LightGBM models forecasting project RAG (Red/Amber/Green) status, improving accuracy from 82% to 96% at 91% precision; ran end-to-end data science workflows (EDA, feature engineering, hypothesis testing); cut ML training time 63% (4hrs to 1.5hrs).
+
+## Projects
+
+- [Jarvis](https://github.com/kraj2503/jarvis): a governed multi-agent AI system (Python, Google ADK, LangChain, Pinecone, FastAPI, A2A) with a centralized root agent for planning, delegation, and context management; parallel/sequential pipelines for healthcare and financial reasoning combining RAG retrieval with validation stages.
+- [WorkSync](https://github.com/kraj2503/WorkSync): a modular, event-driven workflow automation platform (TurboRepo, Express, Kafka, PostgreSQL, Prisma, Supabase, Next.js) with a Kafka-based pipeline for orchestration and a secure multi-tenant backend.
+- [Tradosphere](https://github.com/kraj2503/Exchange.git): a cryptocurrency exchange platform inspired by Backpack.exchange, with a separated API/trading-engine architecture, Redis pub/sub, a market-maker bot, and a trade simulator.
+- [Muzly](https://muzly.kshitizraj.com/): a social streaming platform (Next.js, NextAuth) for synchronized YouTube watching with a democratic voting system.
+
+## Skills
+
+Languages: TypeScript, JavaScript, Python, C/C++. Applied AI: Google ADK, LangChain, LangGraph, A2A, RAG, Vector Databases, AWS Bedrock, AWS AgentCore. Backend: Node.js, Express.js, FastAPI, GraphQL, Kafka, WebSockets, Event-Driven Architecture. Data: PostgreSQL, MySQL, MongoDB, Redis, Prisma. Cloud/DevOps: AWS, Docker, Red Hat OpenShift, GitLab CI/CD. Frontend: React.js, Next.js, Tailwind CSS. ML: XGBoost, LightGBM, Feature Engineering, TF-IDF.
+
+## Education
+
+- B.Tech, Computer Science & Engineering — SRM Institute of Science & Technology, Chennai (2020–2024), CGPA 9.05/10.
+
+## Contact
+
+- Email: kshitizraj.dev@gmail.com
+- LinkedIn: https://linkedin.com/in/kshitiz-raj-2503
+- GitHub: https://github.com/kraj2503
+- X: https://x.com/_kshitiz_raj
+- Resume: https://kshitizraj.com/Kshitiz_Raj_Resume.pdf
+
+## Optional
+
+- [Full resume (PDF)](https://kshitizraj.com/Kshitiz_Raj_Resume.pdf): complete work history, certifications, and education.
